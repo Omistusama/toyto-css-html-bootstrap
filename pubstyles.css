@@ -1,7 +1,20 @@
 body{
     margin: 0px auto;
     padding:16px auto;
-    max-width:576px; 
+}
+@media screen and (min-width:576px){
+    body{
+      margin: 0px auto;
+      padding:16px auto;
+      max-width:576px; 
+    }
+}
+@media screen and (min-width:768px){
+    body{
+      margin: 0px auto;
+      padding:16px auto;
+      max-width:768px; 
+    }
 }
 .image {
     display: block;
@@ -13,12 +26,12 @@ h1 {
 }
 .row-striped:nth-of-type(odd){
     background-color: #8b8b8b;
-    border-left: 4px #000000 solid;
+    border-left: 4px #7cb5c4 solid;
 }
   
 .row-striped:nth-of-type(even){
     background-color: #b1adad;
-    border-left: 4px #efefef solid;
+    border-left: 4px #67818b solid;
 }
   
 .row-striped {

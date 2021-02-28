@@ -20,6 +20,12 @@ body{
       padding:16px auto;
     }
 }
+@media screen and (min-width:1200px){
+    body{
+      margin: 0px auto;
+      padding:16px auto;
+    }
+}
 .image {
     display: block;
     width: 100%;

@@ -3,3 +3,11 @@ body{
     padding:16px auto;
     max-width:576px; 
 }
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+h1 {
+    color: #224724;
+}

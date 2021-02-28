@@ -6,14 +6,12 @@ body{
     body{
       margin: 0px auto;
       padding:16px auto;
-      max-width:576px; 
     }
 }
 @media screen and (min-width:768px){
     body{
       margin: 0px auto;
       padding:16px auto;
-      max-width:768px; 
     }
 }
 .image {
